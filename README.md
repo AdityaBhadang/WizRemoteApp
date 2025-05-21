@@ -15,4 +15,6 @@ The app scans your Wi-Fi network to locate your bulb’s IP address by sending U
 	•	Fast and responsive control.
 	•	Made to fill the gap for Mac users who want simple, reliable bulb control.
 
+Just a heads up, if the app doesn’t open right away, you might need to go to the settings, security, and allow apps from trusted developers. Also, the app needs your permission to scan the local network when you first open it.
+
  [Wiz Remote App](https://github.com/user-attachments/files/20357546/Wiz.Remote.App.app.zip)
